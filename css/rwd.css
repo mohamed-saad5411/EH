@@ -18,4 +18,17 @@
         width: 90%;
     }
 
+    .sm-screen{
+        display: block !important;
+    }
+
+    .bg-screen{
+        display: none !important;
+    }
+    .carousel-caption h5{
+        font-size: 0.75rem !important;
+    }
+    .carousel-caption{
+        height: 32%;
+    }
 }
