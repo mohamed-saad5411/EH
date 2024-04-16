@@ -10,7 +10,7 @@ function sendEmail() {
         Host: "smtp.elasticemail.com",
         Username: "mohamedsaad5412@gmail.com",
         Password: "3D0AAAB8DF235B3A960127B9D937083BAE7C",
-        To: 'mohamedsaad5412@gmail.com',
+        To: 'eh.engineeringhouse@gmail.com',
         From: "mohamedsaad5412@gmail.com",
         Subject: "I contact you to ...",
         Body: bodyMessage
